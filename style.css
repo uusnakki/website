@@ -1,0 +1,98 @@
+@import url(https://everythingfonts.com/font/face/NmKXFFvPme7CiuLJekeQyweF);
+.profiili {
+    border-radius: 50%;
+}
+.moro, h1, h2, h3, h4{
+    color: rgb(23, 56, 58);
+    font-family: monospace;
+    font-size: xx-large;
+}
+h5 {
+  color: rgb(23, 56, 58);
+    font-family: monospace;
+    font-size: large;
+
+}
+.moro {
+    FONT-WEIGHT: 100;
+    margin: 40px;
+    color: rgb(23, 56, 58);
+    font-family: monospace;
+}
+.moro2{
+    FONT-WEIGHT: 100;
+    margin: 40px;
+    color: rgb(23, 56, 58);
+    font-family: monospace;
+    font-size: larger;
+    
+}
+html, body {
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    margin: auto;
+}
+.p{
+  text-align: center;
+}
+body {
+    margin: 40px;
+   
+  }
+.vasen {
+    background-color: rgb(110, 194, 228);
+  
+  max-width: 50%;
+  display: flex;
+  flex-direction: row;
+  height: 80%;
+}
+.vasen, .oikea{
+    background-color: rgb(222, 233, 238);
+    margin: 100px;
+    max-width: 100%;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: exo2light;
+    text-align: center;
+    font-size: 1.2 em;
+    color: black;
+  }
+  
+  .vasen {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .profile-picture {
+    border-radius: 50%;
+  }
+  .some {
+    list-style: none;
+    padding-left: unset;
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .some li {
+    display: inline-block;
+    margin-right: 16px;
+  }
+  
+  .some a {
+    text-decoration: aqua;
+    padding: 4px;
+  }
+  
+  .some a:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+ 
