@@ -2,5 +2,5 @@
 own website based on CV, done with basic HTML and CSS.
 http://users.jyu.fi/~jtuusnas/
 <p>
-  <img src="">
+  <img src="profiili.PNG">
 </p>
